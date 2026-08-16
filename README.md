@@ -13,20 +13,25 @@ Original author: miscky
 Reworked & maintained by: vEnoch24
 
 Table of contents
-- What this is
-- Features
-- Requirements
-- Project layout
-- Quick start (open & run)
-- Setup: inspector wiring & recommended Animator states
-- API reference (scripts & important public fields/methods/events)
-- Prefabs & scenes
-- Audio, fonts & TextMeshPro
-- Customization & theming
-- Recommendations (Git LFS, secrets, build)
-- Troubleshooting & FAQ
-- Contributing, license & credits
-- Changelog / TODOs
+<!-- Row 1 -->
+[![What this is](https://img.shields.io/badge/What%20this%20is-Go-blue?style=for-the-badge)](#what-this-is)
+[![Features](https://img.shields.io/badge/Features-Go-blue?style=for-the-badge)](#features)
+[![Requirements](https://img.shields.io/badge/Requirements-Go-blue?style=for-the-badge)](#requirements)
+[![Project layout](https://img.shields.io/badge/Project%20layout-Go-blue?style=for-the-badge)](#project-layout)
+[![Quick start](https://img.shields.io/badge/Quick%20start-Go-blue?style=for-the-badge)](#quick-start)
+
+<!-- Row 2 -->
+[![Setup & Animator states](https://img.shields.io/badge/Setup%20%26%20Animator-Go-blue?style=for-the-badge)](#setup-inspector-wiring--recommended-animator-states)
+[![API reference](https://img.shields.io/badge/API%20reference-Go-blue?style=for-the-badge)](#api-reference)
+[![Prefabs & scenes](https://img.shields.io/badge/Prefabs%20%26%20scenes-Go-blue?style=for-the-badge)](#prefabs--scenes)
+[![Audio & TextMeshPro](https://img.shields.io/badge/Audio%20%26%20TextMeshPro-Go-blue?style=for-the-badge)](#audio-fonts--textmeshpro)
+[![Customization](https://img.shields.io/badge/Customization-Go-blue?style=for-the-badge)](#customization--theming)
+
+<!-- Row 3 -->
+[![Recommendations](https://img.shields.io/badge/Recommendations-Go-blue?style=for-the-badge)](#recommendations-git-lfs-secrets-build)
+[![Troubleshooting](https://img.shields.io/badge/Troubleshooting-Go-blue?style=for-the-badge)](#troubleshooting--faq)
+[![Contributing & license](https://img.shields.io/badge/Contributing%20%26%20license-Go-blue?style=for-the-badge)](#contributing-license--credits)
+[![Changelog / TODOs](https://img.shields.io/badge/Changelog%20%2F%20TODOs-Go-blue?style=for-the-badge)](#changelog--todos)
 
 ---
 
